@@ -1,4 +1,5 @@
 {
   "bug_fixed": "critical",
-  "additional_bug_fixed": "error"
+  "additional_bug_fixed": "error",
+  "add_new_branch": "branch3"
 }
