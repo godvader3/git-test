@@ -1,3 +1,4 @@
 {
-  "bug_fixed": "critical"
+  "bug_fixed": "critical",
+  "additional_bug_fixed": "error"
 }
