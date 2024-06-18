@@ -2,3 +2,4 @@ This is test2.txt file
 This is new line from branch-test1
 This is new line from branch-test2
 This is new line from branch-test3
+Added by Mike on master branch
